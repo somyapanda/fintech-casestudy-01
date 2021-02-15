@@ -59,8 +59,17 @@ Traditional advisor conduct a personal interview to determine the customer’s r
 
 
 
+### References:
 
-    
+  * https://en.wikipedia.org/wiki/Betterment_(company)
+
+  * https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+
+  * https://www.betterment.com/
+
+  * https://www.investopedia.com/betterment-review-4587887
+
+  * https://investorjunkie.com/reviews/betterment/
 
 
 
