@@ -1,4 +1,4 @@
-# Homework1- FinTech Case Study - Betterment
+# Homework1-FinTech Case Study - Betterment
 
 ![Betterment](https://www.betterment.com/uploads/2017/05/Betterment-Logo.png)
 
